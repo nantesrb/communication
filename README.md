@@ -1,0 +1,3 @@
+# Ressources de communication Nantes.rb
+
+Affiches, flyers, stickers, etc...
